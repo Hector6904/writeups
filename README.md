@@ -1,6 +1,6 @@
 # writeups
 
-This repository documents my learning journey in cybersecurity through CTF challenges, labs, and practice rooms (such as PicoCTF, TryHackMe, HackTheBox, and others).
+This repository documents my learning journey in cybersecurity through CTF challenges, labs, and practice rooms.
 
 Unlike traditional writeups that only present the final solution, this repo focuses on the **entire problem-solving process**. Along with solutions, I include my real-time thought process, failed attempts, dead ends, and occasional bloopers. The goal is to capture how problems were actually approached and solved, not just the final answer.
 
@@ -23,18 +23,6 @@ By documenting mistakes and reasoning, I hope to:
 * reinforce my own understanding
 * track my progress over time
 * build a personal knowledge base for future CTFs
-
-## Structure
-
-Writeups are organized by platform or CTF event, and then by category when relevant.
-
-Example structure:
-
-```
-platform-or-ctf/
-    challenge-name/
-        writeup.md
-```
 
 ## Disclaimer
 
